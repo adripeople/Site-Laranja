@@ -1,0 +1,10 @@
+site_name: Site da cor Laranja
+site_author: Adriano & Elielton & Guilherme
+site_dir: /var/www/html
+
+
+theme:
+  name: material
+  language: pt
+  palette:
+    primary: orange
